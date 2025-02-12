@@ -1,0 +1,9 @@
+PyMuPDF
+docling
+npttf2utf
+deep_translator
+fastapi
+uvicorn
+uvicorn[standard]
+python-multipart
+langdetect
