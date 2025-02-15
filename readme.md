@@ -1,4 +1,4 @@
-# PDF Parsing Pipeline
+# PDF Parsing Pipeline (High accuracy nepali parsing)
 
 ## Overview
 
